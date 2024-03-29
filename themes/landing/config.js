@@ -1,14 +1,14 @@
 const CONFIG = {
 
-  LANDING_HEADER_BUTTON_1_TITLE: 'Github开源',
-  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_1_TITLE: 'GitHub',
+  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/KaguReion/NotionNext',
 
-  LANDING_HEADER_BUTTON_2_TITLE: '作者博客',
-  LANDING_HEADER_BUTTON_2_URL: 'https://blog.tangly1024.com/',
+  LANDING_HEADER_BUTTON_2_TITLE: '主页',
+  LANDING_HEADER_BUTTON_2_URL: 'https://blog.kagureion.top/',
 
   // 首页大图英雄板块
-  LANDING_HERO_TITLE_1: 'NotionNext',
-  LANDING_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
+  LANDING_HERO_TITLE_1: 'Landing 主题页',
+  LANDING_HERO_P_1: '⚠ 该主题不由 星海杂波 维护，以下的内容均为演示内容。⚠',
   LANDING_HERO_BUTTON_1_TEXT: '开始体验',
   LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
   LANDING_HERO_BUTTON_2_TEXT: '了解更多',
