@@ -30,7 +30,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-  HERO_RECOMMEND_COVER: 'https://tuapi.eees.cc/api.php?category=dongman&type=302', // 英雄区右侧图片
+  // HERO_RECOMMEND_COVER: 'https://tuapi.eees.cc/api.php?category=dongman&type=302', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
